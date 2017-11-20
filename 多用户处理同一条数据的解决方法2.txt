@@ -1,0 +1,16 @@
+/* 	author:chensheng
+*	Date:2017/11/20
+* /
+
+例：
+在A和B两用户同时操作一个表时，表内容字段为name，age。
+1.A将name从chensheng改为chenjiang;
+2.B将age从20改为21
+此时A的修改就被重新覆盖为了chensheng
+
+解决办法：
+ 加一个Last_Update字段，表示最后的更新时间
+ 比如A改为最后更新时间为A.Update_time
+ 在B最后保存的时候加上一个判断条件Last_Update == (B打开表时候的最后更新时间)
+ 所以再改完之后最后更新时间就不是(B打开表时候的最后更新时间)，而是A.Update_time
+ 所以此时给出警报。
