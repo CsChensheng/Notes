@@ -1,0 +1,204 @@
+File 1211\109.cpp: 189 tokens, 49 lines
+File 1211\132.cpp: 224 tokens, 42 lines
+File 1211\280.cpp: 262 tokens, 58 lines
+File 1211\113.cpp: 231 tokens, 43 lines
+File 1211\392.cpp: 259 tokens, 51 lines
+File 1211\695.cpp: 150 tokens, 31 lines
+File 1211\177.cpp: 177 tokens, 38 lines (not NL-terminated)
+File 1211\525.cpp: 210 tokens, 38 lines (not NL-terminated)
+File 1211\327.cpp: 158 tokens, 36 lines
+File 1211\353.cpp: 472 tokens, 89 lines
+File 1211\142.cpp: 291 tokens, 57 lines
+File 1211\290.cpp: 287 tokens, 49 lines
+File 1211\26.cpp: 189 tokens, 28 lines (not NL-terminated)
+File 1211\186.cpp: 453 tokens, 66 lines
+File 1211\282.cpp: 203 tokens, 28 lines (not NL-terminated)
+File 1211\22.cpp: 255 tokens, 47 lines (not NL-terminated)
+File 1211\71.cpp: 151 tokens, 22 lines
+File 1211\231.cpp: 204 tokens, 57 lines (not NL-terminated)
+File 1211\250.cpp: 305 tokens, 59 lines
+File 1211\257.cpp: 306 tokens, 73 lines (not NL-terminated)
+File 1211\267.cpp: 204 tokens, 44 lines (not NL-terminated)
+File 1211\283.cpp: 329 tokens, 73 lines
+File 1211\295.cpp: 135 tokens, 35 lines
+File 1211\29.cpp: 162 tokens, 32 lines (not NL-terminated)
+File 1211\790.cpp: 351 tokens, 53 lines
+File 1211\571.cpp: 175 tokens, 36 lines
+File 1211\770.cpp: 143 tokens, 29 lines
+File 1211\341.cpp: 204 tokens, 57 lines
+File 1211\346.cpp: 265 tokens, 45 lines (not NL-terminated)
+File 1211\424.cpp: 349 tokens, 56 lines
+File 1211\9.cpp: 212 tokens, 41 lines
+File 1211\762.cpp: 186 tokens, 35 lines
+File 1211\207.cpp: 279 tokens, 62 lines
+File 1211\440.cpp: 210 tokens, 32 lines (not NL-terminated)
+File 1211\904.cpp: 151 tokens, 26 lines (not NL-terminated)
+File 1211\476.cpp: 327 tokens, 58 lines
+File 1211\150.cpp: 227 tokens, 44 lines
+File 1211\489.cpp: 463 tokens, 108 lines
+File 1211\493.cpp: 389 tokens, 59 lines
+File 1211\479.cpp: 164 tokens, 31 lines (not NL-terminated)
+File 1211\513.cpp: 204 tokens, 57 lines
+File 1211\121.cpp: 239 tokens, 58 lines (not NL-terminated)
+File 1211\550.cpp: 204 tokens, 57 lines
+File 1211\805.cpp: 190 tokens, 42 lines
+File 1211\584.cpp: 177 tokens, 37 lines
+File 1211\619.cpp: 204 tokens, 57 lines (not NL-terminated)
+File 1211\788.cpp: 322 tokens, 57 lines
+File 1211\649.cpp: 219 tokens, 39 lines (not NL-terminated)
+File 1211\524.cpp: 207 tokens, 47 lines
+File 1211\686.cpp: 325 tokens, 45 lines
+File 1211\820.cpp: 443 tokens, 72 lines (not NL-terminated)
+File 1211\702.cpp: 204 tokens, 57 lines (not NL-terminated)
+File 1211\79.cpp: 312 tokens, 54 lines (not NL-terminated)
+File 1211\184.cpp: 309 tokens, 51 lines
+File 1211\800.cpp: 204 tokens, 57 lines (not NL-terminated)
+File 1211\823.cpp: 291 tokens, 32 lines (not NL-terminated)
+File 1211\873.cpp: 204 tokens, 57 lines (not NL-terminated)
+File 1211\247.cpp: 337 tokens, 53 lines
+File 1211\91.cpp: 301 tokens, 65 lines (not NL-terminated)
+File 1211\220.cpp: 376 tokens, 83 lines (not NL-terminated)
+Total input: 60 files (60 new, 0 old), 15173 tokens
+
+1211\619.cpp consists for 100 % of 1211\702.cpp material
+1211\702.cpp consists for 100 % of 1211\800.cpp material
+1211\550.cpp consists for 100 % of 1211\619.cpp material
+1211\231.cpp consists for 100 % of 1211\341.cpp material
+1211\800.cpp consists for 100 % of 1211\873.cpp material
+1211\513.cpp consists for 100 % of 1211\550.cpp material
+1211\341.cpp consists for 100 % of 1211\513.cpp material
+1211\873.cpp consists for 100 % of 1211\231.cpp material
+1211\267.cpp consists for 99 % of 1211\341.cpp material
+1211\904.cpp consists for 46 % of 1211\440.cpp material
+1211\904.cpp consists for 40 % of 1211\788.cpp material
+1211\476.cpp consists for 41 % of 1211\820.cpp material
+1211\476.cpp consists for 8 % of 1211\686.cpp material
+1211\476.cpp consists for 8 % of 1211\150.cpp material
+1211\805.cpp consists for 37 % of 1211\788.cpp material
+1211\805.cpp consists for 22 % of 1211\247.cpp material
+1211\805.cpp consists for 13 % of 1211\29.cpp material
+1211\790.cpp consists for 36 % of 1211\489.cpp material
+1211\762.cpp consists for 36 % of 1211\22.cpp material
+1211\762.cpp consists for 13 % of 1211\113.cpp material
+1211\762.cpp consists for 13 % of 1211\489.cpp material
+1211\820.cpp consists for 33 % of 1211\476.cpp material
+1211\820.cpp consists for 10 % of 1211\79.cpp material
+1211\820.cpp consists for 7 % of 1211\247.cpp material
+1211\820.cpp consists for 6 % of 1211\186.cpp material
+1211\295.cpp consists for 30 % of 1211\695.cpp material
+1211\71.cpp consists for 28 % of 1211\150.cpp material
+1211\71.cpp consists for 19 % of 1211\571.cpp material
+1211\132.cpp consists for 27 % of 1211\290.cpp material
+1211\132.cpp consists for 18 % of 1211\904.cpp material
+1211\132.cpp consists for 13 % of 1211\91.cpp material
+1211\132.cpp consists for 12 % of 1211\247.cpp material
+1211\132.cpp consists for 11 % of 1211\250.cpp material
+1211\22.cpp consists for 27 % of 1211\440.cpp material
+1211\22.cpp consists for 10 % of 1211\584.cpp material
+1211\22.cpp consists for 9 % of 1211\121.cpp material
+1211\440.cpp consists for 27 % of 1211\788.cpp material
+1211\440.cpp consists for 14 % of 1211\9.cpp material
+1211\440.cpp consists for 11 % of 1211\489.cpp material
+1211\121.cpp consists for 26 % of 1211\788.cpp material
+1211\121.cpp consists for 10 % of 1211\22.cpp material
+1211\770.cpp consists for 26 % of 1211\424.cpp material
+1211\770.cpp consists for 23 % of 1211\695.cpp material
+1211\770.cpp consists for 18 % of 1211\109.cpp material
+1211\695.cpp consists for 25 % of 1211\177.cpp material
+1211\695.cpp consists for 17 % of 1211\250.cpp material
+1211\695.cpp consists for 17 % of 1211\207.cpp material
+1211\29.cpp consists for 25 % of 1211\584.cpp material
+1211\29.cpp consists for 15 % of 1211\805.cpp material
+1211\327.cpp consists for 25 % of 1211\770.cpp material
+1211\524.cpp consists for 25 % of 1211\267.cpp material
+1211\524.cpp consists for 21 % of 1211\702.cpp material
+1211\524.cpp consists for 15 % of 1211\280.cpp material
+1211\177.cpp consists for 24 % of 1211\695.cpp material
+1211\177.cpp consists for 17 % of 1211\290.cpp material
+1211\584.cpp consists for 23 % of 1211\29.cpp material
+1211\584.cpp consists for 14 % of 1211\22.cpp material
+1211\392.cpp consists for 22 % of 1211\142.cpp material
+1211\392.cpp consists for 15 % of 1211\805.cpp material
+1211\392.cpp consists for 9 % of 1211\113.cpp material
+1211\392.cpp consists for 9 % of 1211\282.cpp material
+1211\571.cpp consists for 22 % of 1211\280.cpp material
+1211\571.cpp consists for 16 % of 1211\327.cpp material
+1211\571.cpp consists for 16 % of 1211\71.cpp material
+1211\571.cpp consists for 14 % of 1211\22.cpp material
+1211\79.cpp consists for 22 % of 1211\440.cpp material
+1211\79.cpp consists for 8 % of 1211\132.cpp material
+1211\489.cpp consists for 22 % of 1211\790.cpp material
+1211\489.cpp consists for 6 % of 1211\823.cpp material
+1211\489.cpp consists for 5 % of 1211\762.cpp material
+1211\489.cpp consists for 5 % of 1211\805.cpp material
+1211\489.cpp consists for 5 % of 1211\440.cpp material
+1211\479.cpp consists for 21 % of 1211\109.cpp material
+1211\290.cpp consists for 21 % of 1211\132.cpp material
+1211\290.cpp consists for 11 % of 1211\142.cpp material
+1211\290.cpp consists for 9 % of 1211\904.cpp material
+1211\788.cpp consists for 20 % of 1211\440.cpp material
+1211\788.cpp consists for 19 % of 1211\132.cpp material
+1211\788.cpp consists for 9 % of 1211\805.cpp material
+1211\788.cpp consists for 8 % of 1211\257.cpp material
+1211\282.cpp consists for 19 % of 1211\571.cpp material
+1211\26.cpp consists for 19 % of 1211\762.cpp material
+1211\26.cpp consists for 13 % of 1211\283.cpp material
+1211\247.cpp consists for 18 % of 1211\22.cpp material
+1211\247.cpp consists for 9 % of 1211\184.cpp material
+1211\247.cpp consists for 7 % of 1211\820.cpp material
+1211\113.cpp consists for 18 % of 1211\805.cpp material
+1211\113.cpp consists for 13 % of 1211\142.cpp material
+1211\113.cpp consists for 11 % of 1211\762.cpp material
+1211\113.cpp consists for 10 % of 1211\392.cpp material
+1211\109.cpp consists for 17 % of 1211\695.cpp material
+1211\109.cpp consists for 14 % of 1211\770.cpp material
+1211\9.cpp consists for 17 % of 1211\904.cpp material
+1211\9.cpp consists for 16 % of 1211\257.cpp material
+1211\9.cpp consists for 16 % of 1211\280.cpp material
+1211\9.cpp consists for 12 % of 1211\788.cpp material
+1211\184.cpp consists for 16 % of 1211\440.cpp material
+1211\184.cpp consists for 10 % of 1211\247.cpp material
+1211\280.cpp consists for 16 % of 1211\392.cpp material
+1211\280.cpp consists for 13 % of 1211\9.cpp material
+1211\280.cpp consists for 11 % of 1211\257.cpp material
+1211\649.cpp consists for 14 % of 1211\142.cpp material
+1211\220.cpp consists for 13 % of 1211\353.cpp material
+1211\220.cpp consists for 9 % of 1211\686.cpp material
+1211\525.cpp consists for 13 % of 1211\207.cpp material
+1211\525.cpp consists for 11 % of 1211\186.cpp material
+1211\150.cpp consists for 13 % of 1211\132.cpp material
+1211\150.cpp consists for 12 % of 1211\121.cpp material
+1211\257.cpp consists for 13 % of 1211\9.cpp material
+1211\257.cpp consists for 9 % of 1211\280.cpp material
+1211\257.cpp consists for 9 % of 1211\476.cpp material
+1211\257.cpp consists for 8 % of 1211\788.cpp material
+1211\346.cpp consists for 12 % of 1211\584.cpp material
+1211\207.cpp consists for 11 % of 1211\71.cpp material
+1211\207.cpp consists for 10 % of 1211\525.cpp material
+1211\207.cpp consists for 9 % of 1211\695.cpp material
+1211\424.cpp consists for 11 % of 1211\770.cpp material
+1211\424.cpp consists for 7 % of 1211\476.cpp material
+1211\686.cpp consists for 10 % of 1211\220.cpp material
+1211\686.cpp consists for 8 % of 1211\476.cpp material
+1211\686.cpp consists for 8 % of 1211\353.cpp material
+1211\823.cpp consists for 10 % of 1211\770.cpp material
+1211\142.cpp consists for 10 % of 1211\392.cpp material
+1211\142.cpp consists for 10 % of 1211\113.cpp material
+1211\250.cpp consists for 10 % of 1211\790.cpp material
+1211\250.cpp consists for 9 % of 1211\247.cpp material
+1211\250.cpp consists for 9 % of 1211\695.cpp material
+1211\283.cpp consists for 10 % of 1211\109.cpp material
+1211\283.cpp consists for 9 % of 1211\257.cpp material
+1211\91.cpp consists for 10 % of 1211\132.cpp material
+1211\91.cpp consists for 9 % of 1211\79.cpp material
+1211\91.cpp consists for 8 % of 1211\353.cpp material
+1211\493.cpp consists for 8 % of 1211\121.cpp material
+1211\493.cpp consists for 7 % of 1211\280.cpp material
+1211\353.cpp consists for 6 % of 1211\109.cpp material
+1211\353.cpp consists for 6 % of 1211\186.cpp material
+1211\353.cpp consists for 5 % of 1211\686.cpp material
+1211\353.cpp consists for 5 % of 1211\91.cpp material
+1211\186.cpp consists for 6 % of 1211\440.cpp material
+1211\186.cpp consists for 6 % of 1211\353.cpp material
+1211\186.cpp consists for 6 % of 1211\820.cpp material
+1211\186.cpp consists for 5 % of 1211\525.cpp material
